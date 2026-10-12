@@ -1,2 +1,3 @@
 # my-granola-transcribe
-why use granola when i can make my own ? 
+at home local granola (ai transcriber)
+run on local host
